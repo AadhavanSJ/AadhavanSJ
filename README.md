@@ -10,12 +10,12 @@ My goal is to leverage my technical expertise, certifications, and passion for c
 
 | Skill                                         | Associated Project                                                                 |
 |-----------------------------------------------|------------------------------------------------------------------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/AadhavanSJ/Home-Lab-Splunk-SIEM-Deployment/blob/main/README.md">Home Lab: Splunk SIEM Deployment</a>                                             |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/AadhavanSJ/Home-Lab-Splunk-SIEM-Deployment">Home Lab: Splunk SIEM Deployment</a>                                             |
 | Security Automation and Orchestration         | <a href="https://github.com/AadhavanSJ/SOC-Automation-Project">SOC Automation Project</a>                                                       |
 | Incident Response Planning and Execution      | <a href="https://github.com/AadhavanSJ/SOC-Automation-Project">SOC Automation Project</a>                                                       |
-| Detection and Response Workflow Development   | <a href="https://github.com/AadhavanSJ/Detection-and-Response-Lab/blob/main/README.md">Detection and Response Workflow with LimaCharlie, LaZagne, and Slack</a>         |
+| Detection and Response Workflow Development   | <a href="https://github.com/AadhavanSJ/Detection-and-Response-Lab">Detection and Response Workflow with LimaCharlie, LaZagne, and Slack</a>         |
 | Active Directory Setup and Management         | <a href="https://github.com/AadhavanSJ/Active-Directory-Lab">Active Directory Lab with Windows Server, Windows 10, Splunk, and Kali Linux</a>  |
-| Threat Detection with LimaCharlie     | <a href="https://github.com/AadhavanSJ/Detection-and-Response-Lab/blob/main/README.md">Detection and Response Workflow with LimaCharlie, LaZagne, and Slack</a>         |
+| Threat Detection with LimaCharlie     | <a href="https://github.com/AadhavanSJ/Detection-and-Response-Lab">Detection and Response Workflow with LimaCharlie, LaZagne, and Slack</a>         |
 
 ## Tools
 ### Network
@@ -69,7 +69,7 @@ My goal is to leverage my technical expertise, certifications, and passion for c
 
 ## Projects
 
-### <a href="https://github.com/AadhavanSJ/Home-Lab-Splunk-SIEM-Deployment/blob/main/README.md">Home Lab: Splunk SIEM Deployment</a>
+### <a href="https://github.com/AadhavanSJ/Home-Lab-Splunk-SIEM-Deployment">Home Lab: Splunk SIEM Deployment</a>
 - **Objective:** Implemented a home lab setup using Windows 10 and Kali Linux to generate and analyze telemetry data.
 - **Details:** Installed and configured Splunk for real-time log monitoring and analysis to simulate SOC workflows.
 - **Outcome:** Gained hands-on experience with detecting and mitigating security threats using SIEM tools.
@@ -79,7 +79,7 @@ My goal is to leverage my technical expertise, certifications, and passion for c
 - **Details:** Automated phishing email analysis and response scenarios to streamline SOC operations.
 - **Outcome:** Demonstrated proficiency in security automation and case management tools.
 
-### <a href="https://github.com/AadhavanSJ/Detection-and-Response-Lab/blob/main/README.md">Detection and Response Workflow with LimaCharlie, LaZagne, and Slack</a>
+### <a href="https://github.com/AadhavanSJ/Detection-and-Response-Lab">Detection and Response Workflow with LimaCharlie, LaZagne, and Slack</a>
 - **Objective:** Created an effective detection and response workflow using modern tools like LimaCharlie, LaZagne, Slack, and Tines.
 - **Details:** Implemented the workflow in a Windows Server environment to enhance detection capabilities and automate response actions.
 - **Outcome:** Improved response time and demonstrated expertise in detection and automation practices.
