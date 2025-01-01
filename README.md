@@ -15,7 +15,7 @@ My goal is to leverage my technical expertise, certifications, and passion for c
 | Incident Response Planning and Execution      | <a href="https://github.com/AadhavanSJ/SOC-Automation-Project">SOC Automation Project</a>                                                       |
 | Detection and Response Workflow Development   | Detection and Response Workflow with LimaCharlie, LaZagne, and Slack         |
 | Active Directory Setup and Management         | Active Directory Lab with Windows Server, Windows 10, Splunk, and Kali Linux  |
-| Endpoint Security with Microsoft Defender     | Detection and Response Workflow with LimaCharlie, LaZagne, and Slack         |
+| Threat Detection with LimaCharlie     | Detection and Response Workflow with LimaCharlie, LaZagne, and Slack         |
 
 ## Tools
 ### Network
