@@ -11,8 +11,8 @@ My goal is to leverage my technical expertise, certifications, and passion for c
 | Skill                                         | Associated Project                                                                 |
 |-----------------------------------------------|------------------------------------------------------------------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/AadhavanSJ/Home-Lab-Splunk-SIEM-Deployment/blob/main/README.md">Home Lab: Splunk SIEM Deployment</a>                                             |
-| Security Automation and Orchestration         | SOC Automation Project                                                       |
-| Incident Response Planning and Execution      | SOC Automation Project                                                       |
+| Security Automation and Orchestration         | <a href="https://github.com/AadhavanSJ/SOC-Automation-Project">SOC Automation Project</a>                                                       |
+| Incident Response Planning and Execution      | <a href="https://github.com/AadhavanSJ/SOC-Automation-Project">SOC Automation Project</a>                                                       |
 | Detection and Response Workflow Development   | Detection and Response Workflow with LimaCharlie, LaZagne, and Slack         |
 | Active Directory Setup and Management         | Active Directory Lab with Windows Server, Windows 10, Splunk, and Kali Linux  |
 | Endpoint Security with Microsoft Defender     | Detection and Response Workflow with LimaCharlie, LaZagne, and Slack         |
@@ -74,7 +74,7 @@ My goal is to leverage my technical expertise, certifications, and passion for c
 - **Details:** Installed and configured Splunk for real-time log monitoring and analysis to simulate SOC workflows.
 - **Outcome:** Gained hands-on experience with detecting and mitigating security threats using SIEM tools.
 
-### SOC Automation Project
+### <a href="https://github.com/AadhavanSJ/SOC-Automation-Project">SOC Automation Project</a>
 - **Objective:** Developed automation workflows for incident response using Shuffle SOAR and integrated with TheHive case management system.
 - **Details:** Automated phishing email analysis and response scenarios to streamline SOC operations.
 - **Outcome:** Demonstrated proficiency in security automation and case management tools.
