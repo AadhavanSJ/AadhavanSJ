@@ -14,7 +14,7 @@ My goal is to leverage my technical expertise, certifications, and passion for c
 | Security Automation and Orchestration         | <a href="https://github.com/AadhavanSJ/SOC-Automation-Project">SOC Automation Project</a>                                                       |
 | Incident Response Planning and Execution      | <a href="https://github.com/AadhavanSJ/SOC-Automation-Project">SOC Automation Project</a>                                                       |
 | Detection and Response Workflow Development   | Detection and Response Workflow with LimaCharlie, LaZagne, and Slack         |
-| Active Directory Setup and Management         | Active Directory Lab with Windows Server, Windows 10, Splunk, and Kali Linux  |
+| Active Directory Setup and Management         | <a href="https://github.com/AadhavanSJ/Active-Directory-Lab">Active Directory Lab with Windows Server, Windows 10, Splunk, and Kali Linux</a>  |
 | Threat Detection with LimaCharlie     | Detection and Response Workflow with LimaCharlie, LaZagne, and Slack         |
 
 ## Tools
@@ -84,7 +84,7 @@ My goal is to leverage my technical expertise, certifications, and passion for c
 - **Details:** Implemented the workflow in a Windows Server environment to enhance detection capabilities and automate response actions.
 - **Outcome:** Improved response time and demonstrated expertise in detection and automation practices.
 
-### Active Directory Lab with Windows Server, Windows 10, Splunk, and Kali Linux
+### <a href="https://github.com/AadhavanSJ/Active-Directory-Lab">Active Directory Lab with Windows Server, Windows 10, Splunk, and Kali Linux</a>
 - **Objective:** Built a hands-on lab environment to mimic a real-world Active Directory (AD) setup.
 - **Details:**
   - Configured a functional AD environment integrated with logging and monitoring using Splunk.
