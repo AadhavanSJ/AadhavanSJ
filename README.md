@@ -10,12 +10,12 @@ My goal is to leverage my technical expertise, certifications, and passion for c
 
 | Skill                                         | Associated Project                                                                 |
 |-----------------------------------------------|------------------------------------------------------------------------------------|
-| SIEM Implementation and Log Analysis          | [Home Lab: Splunk SIEM Deployment](#)                                             |
-| Security Automation and Orchestration         | [SOC Automation Project](#)                                                       |
-| Incident Response Planning and Execution      | [SOC Automation Project](#)                                                       |
-| Detection and Response Workflow Development   | [Detection and Response Workflow with LimaCharlie, LaZagne, and Slack](#)         |
-| Active Directory Setup and Management         | [Active Directory Lab with Windows Server, Windows 10, Splunk, and Kali Linux](#)  |
-| Endpoint Security with Microsoft Defender     | [Detection and Response Workflow with LimaCharlie, LaZagne, and Slack](#)         |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/AadhavanSJ/Home-Lab-Splunk-SIEM-Deployment/blob/main/README.md">Home Lab: Splunk SIEM Deployment</a>                                             |
+| Security Automation and Orchestration         | SOC Automation Project                                                       |
+| Incident Response Planning and Execution      | SOC Automation Project                                                       |
+| Detection and Response Workflow Development   | Detection and Response Workflow with LimaCharlie, LaZagne, and Slack         |
+| Active Directory Setup and Management         | Active Directory Lab with Windows Server, Windows 10, Splunk, and Kali Linux  |
+| Endpoint Security with Microsoft Defender     | Detection and Response Workflow with LimaCharlie, LaZagne, and Slack         |
 
 ## Tools
 ### Network
@@ -69,7 +69,7 @@ My goal is to leverage my technical expertise, certifications, and passion for c
 
 ## Projects
 
-### Home Lab: Splunk SIEM Deployment
+### <a href="https://github.com/AadhavanSJ/Home-Lab-Splunk-SIEM-Deployment/blob/main/README.md">Home Lab: Splunk SIEM Deployment</a>
 - **Objective:** Implemented a home lab setup using Windows 10 and Kali Linux to generate and analyze telemetry data.
 - **Details:** Installed and configured Splunk for real-time log monitoring and analysis to simulate SOC workflows.
 - **Outcome:** Gained hands-on experience with detecting and mitigating security threats using SIEM tools.
