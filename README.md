@@ -1,5 +1,5 @@
 # Hello, I'm Aadhavan
-<a href="https://www.linkedin.com/in/aadhavan-sathiyamoorthyjayalakshmi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aadhavansj/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent graduate with a strong technical foundation and hands-on experience in building and monitoring secure systems.
 
