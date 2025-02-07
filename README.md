@@ -29,7 +29,15 @@ My goal is to leverage my technical expertise, certifications, and passion for c
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure%20Sentinel-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
+
+### IDS/IPS
+<div>
+    <img src="https://img.shields.io/badge/-Snort-CC0000?&style=for-the-badge&logo=snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-FF9900?&style=for-the-badge&logo=suricata&logoColor=white" />
+</div>
+
 
 ### SOAR Tools
 <div>
@@ -56,6 +64,11 @@ My goal is to leverage my technical expertise, certifications, and passion for c
     <img src="https://img.shields.io/badge/-Windows_Server-00A4EF?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C88?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+</div>
+
+### Cloud Technology
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 
 ## Certifications
