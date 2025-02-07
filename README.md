@@ -104,7 +104,7 @@ My goal is to leverage my technical expertise, certifications, and passion for c
   - Enabled both red and blue team activities for enhanced learning and practice.
 - **Outcome:** Gained advanced technical skills in AD setup, Splunk integration, and cybersecurity lab design.
 
-### <a href="https://github.com/AadhavanSJ/SIEM-Honeypot-Attack-Map">SIEM & Honeypot | Microsoft Azure Sentinel Attack Map</a>
+### <a href="https://github.com/AadhavanSJ/-Building-a-SIEM-with-Azure-Sentinel">SIEM & Honeypot | Microsoft Azure Sentinel Attack Map</a>
 - **Objective:** Created a cybersecurity lab to simulate a honeypot environment, capturing and analyzing cyberattacks with Microsoft Azure Sentinel.
 - **Details:**
   - Configured Azure resources including Virtual Machines, Log Analytics Workspaces, and Azure Sentinel for SIEM.
