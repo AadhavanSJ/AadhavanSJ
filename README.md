@@ -103,3 +103,24 @@ My goal is to leverage my technical expertise, certifications, and passion for c
   - Configured a functional AD environment integrated with logging and monitoring using Splunk.
   - Enabled both red and blue team activities for enhanced learning and practice.
 - **Outcome:** Gained advanced technical skills in AD setup, Splunk integration, and cybersecurity lab design.
+
+### <a href="https://github.com/AadhavanSJ/SIEM-Honeypot-Attack-Map">SIEM & Honeypot | Microsoft Azure Sentinel Attack Map</a>
+- **Objective:** Created a cybersecurity lab to simulate a honeypot environment, capturing and analyzing cyberattacks with Microsoft Azure Sentinel.
+- **Details:**
+  - Configured Azure resources including Virtual Machines, Log Analytics Workspaces, and Azure Sentinel for SIEM.
+  - Deployed a honeypot virtual machine to attract and log attacks, integrated with PowerShell scripts for log export and geolocation.
+  - Analyzed logs using Kusto Query Language (KQL) and visualized attack data on a world map dashboard.
+- **Outcome:** Gained hands-on experience with SIEM tools, advanced skills in Azure Sentinel and KQL, and practical knowledge in honeypot configuration and attack visualization.
+
+### Elastic Stack Security Monitoring System with ELK, Mythic C2, and osTicket
+- **Objective:** The goal of this project was to build a security monitoring and response system using the Elastic Stack (ELK), Mythic C2, and osTicket. The system simulates cyberattacks, monitors them using ELK, and automates alerts and ticket creation for effective incident management.
+- **Details:** 
+  - ELK Stack Setup: Deployed Elasticsearch, Logstash, and Kibana for log analysis and visualization.
+  - Fleet Server & Elastic Agents: Monitored Windows Server and Ubuntu for SSH and RDP brute-force attacks.
+  - Mythic C2 Simulation: Simulated advanced attacks and monitored activity using Sysmon logs.
+  - Alerts & Dashboards: Created dashboards and alerts in Kibana for real-time attack monitoring.
+  - osTicket Integration: Automated ticket creation for attack incidents, improving incident response efficiency.
+  - Elastic Defend: Deployed for real-time endpoint threat detection and response.
+
+- **Outcome:** Successfully built a comprehensive security monitoring and response system, enhancing proactive defense capabilities with real-time alerts, dashboards, and automated ticket management for effective incident handling.
+
